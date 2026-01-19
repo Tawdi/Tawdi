@@ -2,8 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=00BFFF&lines=Hey+There!+👋;I+am+Ahmed+Taoudi;Full+Stack+Java+Developer" />
 </h1>
 
+
 <p align="center">
-  <img src="/**/" alt="Ahmed Taoudi" width="200" style="border-radius:50%;">
+  <img src="mine.jpg" alt="Ahmed Taoudi" width="200" style="border-radius:50% ; object-fit:cover;">
 </p>
 
 <p align="center">
